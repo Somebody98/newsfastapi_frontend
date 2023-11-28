@@ -4,7 +4,6 @@
 
 Загрузите базу данных из резервной копии news.sql
 
-Введите данные для авторизации базы данных в файле database.35
+Запустите сервер FastAPI с помощью команды: uvicorn main:app --reload
 
-Запустите сервер FastAPI с помощью команды:
-uvicorn main:app --reload
+Зайдите в index.html
